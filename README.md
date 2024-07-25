@@ -18,9 +18,9 @@ you have tasks with priorities (task name, task priority) and you need to store 
 * Finally run the main method. The output should be as follows:
 
 ```
-Task [name = Task Two, priority = 2]
-Task [name = Task Three, priority = 6]
 Task [name = Task One, priority = 10]
+Task [name = Task Three, priority = 6]
+Task [name = Task Two, priority = 2]
 
 ```
 
