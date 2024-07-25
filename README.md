@@ -13,8 +13,8 @@ you have tasks with priorities (task name, task priority) and you need to store 
 
 ### Implementation
 
-* Implement the store method in the `PriorityQueue` class, which stores a task based on its priority.
-* Implement the dequeue/process method in the `PriorityQueue` class, which removes the task with the highest priority.
+* Implement the `add` method in the `PriorityQueue` class, which stores a task based on its priority.
+* Implement the `dequeue`/process method in the `PriorityQueue` class, which removes the task with the highest priority.
 * Finally run the main method. The output should be as follows:
 
 ```
