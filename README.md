@@ -7,7 +7,7 @@ In this project, our objective is to understand how to use a Priority Queue data
 
 ### Problem
 
-Implement a task manager system that stores tasks with specific priorities and organizes them using a Priority Queue data structure.
+Implement a task manager system that stores tasks with specific priorities and organizes them using a priority queue data structure.
 
 > The higher the priority value, the higher the priority of the task to get processed.
 
