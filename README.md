@@ -7,7 +7,7 @@ In this project, our objective is to understand how to use a Priority Queue data
 
 ### Problem
 
-you have tasks with priorities (task name, task priority) and you need to store them in a Priority Queue.
+Implement a task manager system that stores tasks with specific priorities and organizes them using a Priority Queue data structure.
 
 > The higher the priority value, the higher the priority of the task to get processed.
 
@@ -35,11 +35,10 @@ class Main {
         pq.add("Task One", 10);
         pq.add("Task Two", 2);
         pq.add("Task Three", 6);
-        System.out.println(pq.remove()); // 10
-        System.out.println(pq.remove()); // 2
-        System.out.println(pq.remove()); // 6
+        System.out.println(pq.remove()); // Task One
+        System.out.println(pq.remove()); // Task Three
+        System.out.println(pq.remove()); // Task Two
     }
 }
-
 
 ```
